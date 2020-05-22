@@ -1,0 +1,16 @@
+.icons {
+    color: #ccc;
+    margin: 40px;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    text-align: center;
+    line-height: 120px;
+    border-radius: 50%;
+    box-shadow: 0px 3px 8px #aaa, inset 0px 2px 3px #fff;
+    display: block;
+    background: rgb(231, 7, 7);
+    list-style: none;
+    text-align: center;
+    margin-top: 35px;
+}
